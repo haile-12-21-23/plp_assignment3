@@ -1,0 +1,5 @@
+Python is fun.
+File handling is important.
+We can read and write files easily.
+Practice makes perfect.
+Enjoy coding!
