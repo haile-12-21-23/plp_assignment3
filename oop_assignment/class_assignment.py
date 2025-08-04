@@ -84,11 +84,11 @@ if __name__=="__main__":
     phone.charge(16)
     phone.power_off()
 
-print(tablet)
-tablet.power_on()
-tablet.watch_video(5)
-tablet.charge(13)
-tablet.power_off()
+    print(tablet)
+    tablet.power_on()
+    tablet.watch_video(5)
+    tablet.charge(13)
+    tablet.power_off()
 
 
 
